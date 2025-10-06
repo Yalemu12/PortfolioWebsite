@@ -31,4 +31,13 @@ Built from scratch using HTML, CSS, and JavaScript, this project reflects my app
 
 ## 📁 Project Structure
 
+│
+├── index.html # Main page containing homepage, about, projects, and contact sections
+├── style.css # Core CSS file defining the global layout, colors, and typography
+├── mediaqueries.css # Responsive styling for tablets and mobile devices
+├── script.js # JavaScript file for navigation, animations, and interactivity
+├── assets/ # Folder containing images, icons, and media files
+├── resume/ # Folder for downloadable resume files (PDF/Word)
+└── README.md # Documentation file (this one)
+
 
